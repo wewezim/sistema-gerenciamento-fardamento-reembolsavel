@@ -1,2 +1,2 @@
-# sistema-gerenciamento-fardamento-reembolsavel
-Criação de um sistema de gerenciamento do estique do fardamento reembolsável
+# Sistema de Gerenciamento de Fardamento Reembolsável
+Criação de um sistema de gerenciamento do estoque do fardamento reembolsável

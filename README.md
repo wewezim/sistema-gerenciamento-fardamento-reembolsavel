@@ -43,8 +43,63 @@ diferente, de até outra categoria, e outros inúmeros que normalmente ocorrem. 
 
 enviar ao Órgão Central para correções, o que torna o processo moroso e suscetível a mais falhas como mais erros de lançamento.
 
+
+
 ## A escolha da dor
 
 A ideia é utilizar o vibe coding para criar um sistema de gerenciamento do estoque do material reembolsável para eliminar 
 
 os erros apresentados no sistema de gestão atual, produzindo um relatório muito mais fidedigno.
+
+
+## Por que ela vale um negócio?
+
+Como o gerenciamento de fardamento reembolsável é ruim com o sistema atual, o gestor e toda a sua equipe passam muitas 
+
+horas fazendo relatórios de inventário e contando todos os itens, de modo que consiga produzir um relatório consistente.
+
+Assim, com um sistema eficiente e paralelo, a economia de tempo e a qualidade das informações prestadas pelo gestor 
+
+serão bem maiores, com o fito de realmente gerenciar o material ao seu dispor, fazendo o seu papel com excelência.
+
+
+## O tamanho de mercado
+
+TAM (Mercado Total Endereçável): Todos os militares da Força Aérea Brasileira, aproximadamente 80.937 integrantes.
+
+SAM (Mercado Disponível Endereçável): Todos os militares da Guarnição de Aeronáutica em Recife, em torno de 2 mil militares.
+
+SOM (Mercado Disponível Obtível): Apenas o efetivo do Grupamento de Apoio de Recife, 470 militares.
+
+
+## Business Model Canvas
+
+1. Segmentos de Clientes: Órgão Central de Fardamento da Aeronáutica.
+
+
+2. Proposta de Valor: Solução do problema de falta de fardamento nos estoques de reembolsável, por um mau gerenciamento 
+
+dos itens faltantes. O meu produto seria altamente aceitável nos postos de venda de fardamento, porque não possui hoje 
+
+outro sistema capaz de gerenciar tão bem o estoque de fardamento.
+
+
+3. Canais: Por meio de venda direta ao Órgão Central de Fardamento da Aeronáutica.
+
+
+4. Relacionamento com Clientes: O cliente possuirá um contrato de gerenciamento e manutenção do sistema.
+
+
+5. Fontes de Receita: Contrato de fornecimento de sistema e manutenção para a Força Aérea Brasileira.
+
+
+6. Recursos Principais: Sistema de desenvolvimento de software (Java, C++ ou outro) e um desenvolvedor.
+
+
+7. Atividades Principais: Criação de um sistema de gerenciamento de estoque e manutenção frequente de possíveis erros.
+
+
+8. Parcerias Principais: Não possui.
+
+
+9. Estrutura de Custos: Assinatura de ChatGpt 5, Lovable e outras ferramentas necessárias.
